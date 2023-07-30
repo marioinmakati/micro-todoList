@@ -1,6 +1,9 @@
 # micro-todoList
 # Go-Micro V4 + RabbitMQ 构造简单备忘录
 
+
+https://blog.csdn.net/weixin_45304503/article/details/131120205
+
 将原项目的micro的v2升到v4，服务发现使用etcd，支持熔断机制，token验证，网关和各模块之间的rpc通信等
 
 # 项目的详细博客地址
